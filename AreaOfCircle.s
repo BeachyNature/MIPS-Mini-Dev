@@ -2,7 +2,7 @@
 # Area of a circle in double precison
 #
 # Date: 11/7/2019
-# Author: Connor Baechy
+# Author: Connor Beachy
 
 .data
 
